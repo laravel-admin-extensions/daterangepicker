@@ -54,8 +54,8 @@ class DateRangePicker extends Field
             $this->column['start'] = $column[0];
             $this->column['end'] = $column[1];
 
-            array_shift($arguments);
             $this->label = $this->formatLabel($arguments);
+
             $this->id = $this->formatId($this->column);
 
             $this->multiple = true;
