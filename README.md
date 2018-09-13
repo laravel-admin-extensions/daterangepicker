@@ -3,6 +3,10 @@ Integrates daterangepicker into laravel-admin
 
 This is an extension to integrates [Date Range Picker](http://www.daterangepicker.com/) into laravel-admin.
 
+## Screenshot
+
+![qq20180914-014825](https://user-images.githubusercontent.com/1479100/45505950-8521f880-b7c0-11e8-97cf-4a792e8f4c0e.png)
+
 ## Installation 
 
 ```bash
